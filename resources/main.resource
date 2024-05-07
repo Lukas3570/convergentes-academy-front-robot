@@ -173,6 +173,7 @@ Campo nome com mais de 100 caracteres
   Input Text    locator=${senhaImput}    text=1234@Test
   Input Text    locator=${confirmarSenhaImput}    text=1234@Test
   Click Button    locator=${salvarNovoButton}
+  Sleep   2s
   ${msgNomeCompleto}  Get Text  ${msgNomeInvalido}
   Should Be Equal As Strings    ${msgNomeCompleto}    O nome completo deve ter no máximo 100 caracteres.
   Sleep  3s
