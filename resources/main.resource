@@ -6,7 +6,7 @@ Resource  variables.resource
 
 *** Keywords ***
 Abrir o navegador
-  Open Browser  browser=chrome
+  Open Browser  browser=headlesschrome
   Maximize Browser Window
   Go To    url=${URL}
 
