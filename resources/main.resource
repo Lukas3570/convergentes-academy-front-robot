@@ -97,7 +97,7 @@ Listar Usuários
 
 
 Cadastrar Diretoria
-  Sleep    1s
+  Sleep    2s
   Wait Until Element Is Visible    locator=${cadastrosElement}
   Click Element    locator=${cadastrosElement}
   Wait Until Element Is Visible    locator=${diretoriaElement}
