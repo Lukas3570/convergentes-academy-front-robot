@@ -25,7 +25,7 @@ Projeto voluntário supervisionado pela Qa.Coders para Testes de Frontend execut
   pip install robotframework
 ```
 
-*Demais Libraries para os testes de API*
+*Demais Libraries para os testes de Frontend*
 
 ```bash
 pip install --upgrade robotframework-seleniumlibrary
