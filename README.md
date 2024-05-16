@@ -1,7 +1,5 @@
 # Convergentes - Front :robot:
 
-![Logo Robot](image.png)
-
 Projeto de automação de API com o ```Robot Framework```.
 
 Projeto voluntário supervisionado pela Qa.Coders para Testes de Frontend executado pela equipe Convergentes
